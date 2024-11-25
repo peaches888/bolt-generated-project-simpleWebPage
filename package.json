@@ -1,0 +1,9 @@
+{
+      "name": "simple-web-page",
+      "scripts": {
+            "dev": "vite"
+      },
+      "devDependencies": {
+            "vite": "^5.4.11"
+      }
+}
